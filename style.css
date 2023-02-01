@@ -1,0 +1,47 @@
+body {
+    background-color:#D5E1EF;
+    height: 100vh;
+    display: flex;
+    font-family:'Outfit', sans-serif ;
+    
+}
+
+div {
+    background-color: white;
+    width: 320px;
+    margin: auto;
+    padding: 16px;
+    border-radius: 20px;
+
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+
+
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+    color: #1F314F;
+    line-height: 28px;
+    font-weight: 700;
+    height: 56px;
+    width: 288px;
+    margin: auto;
+    padding-top: 24px;
+
+
+
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    color:#7D889E ;
+    margin: auto;
+    padding: 16px 32px 40px 32px;
+
+}
